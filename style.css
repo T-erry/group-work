@@ -1,0 +1,12 @@
+.flex-container{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    background-color: blueviolet;
+}
+.flex-container div{
+    background-color: blue;
+    margin: 15px;
+    padding: 10px;
+
+}
